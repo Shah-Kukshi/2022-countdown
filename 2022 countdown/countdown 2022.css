@@ -15,9 +15,9 @@
 
 .container .imgbx {
     position: relative;
-    width: 1500px;
+    width: 1400px;
     height: 100%;
-    background: url(couple.jpg);
+    background: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fapanthersfatherbookoneandapanthersfatherbooktwo.files.wordpress.com%2F2020%2F08%2Fpexels-photo-326900.jpeg%3Fw%3D730&f=1&nofb=1&ipt=13de43be8a3ef0a11f7b39a16e5233c917adb7ee369cf9b30710cb83d155daaf&ipo=images");
     background-size: cover;
 }
 
